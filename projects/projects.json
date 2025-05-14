@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Online Banking Website",
+    "desc": "An online banking system web development project aims to create a secure and user-friendly platform for customers to manage their finances digitally.",
+    
+    
+    "links": {
+
+      "code": "https://github.com/Rishi-Teja/Online_Banking_Website"
+    }
+  },
+  {
+    "name": "Simple Calculator",
+    "desc": "A simple calculator project using HTML, CSS, and JavaScript involves creating a basic web application that performs arithmetic operations.",
+   
+    
+    "links": {
+      
+      "code": "https://github.com/Rishi-Teja/Simple-Calculator"
+    }
+  },
+  {
+    "name": "To-Do-List",
+    "desc": "A to-do list web development project focuses on building a digital application that allows users to create, manage, and organize their tasks.",
+    
+   
+    "links": {
+      
+      "code": "https://github.com/Rishi-Teja/To-Do-List"
+  }
+},
+  {
+    "name": "Login Authentication",
+    "desc": "A login authentication web development project centers on creating a secure system for users to access a web application.",
+    
+    
+    "links": {
+      
+      "code": "https://github.com/Rishi-Teja/Login-Authentication"
+    }
+  },
+  {
+    "name": "Port Scanning and Vulnerability Assessment",
+    "desc": "A port scanning and vulnerability assessment project involves developing tools or scripts to identify open ports and potential security weaknesses in computer systems or networks. ",
+
+    "links": {
+      
+      "code": ""
+    }
+  },
+  {
+    "name": "AI Resume Parser",
+    "desc": "An AI resume parser project focuses on developing a system that can automatically extract key information from resumes (CVs) using Artificial Intelligence and Natural Language Processing (NLP) techniques.",
+  
+    
+    "links": {
+      
+      "code": "https://github.com/Rishi-Teja/AI-Resume-Parser"
+    }
+  }
+]

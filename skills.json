@@ -1,0 +1,65 @@
+[
+    {
+        "name": "ReactJS"
+    },
+    
+    {
+        "name": "NodeJS"
+    },
+    
+    
+    {
+        "name": "Bootstrap"
+    },
+    
+    {
+        "name": "HTML5"
+    },
+    {
+        "name": "CSS3"
+    },
+    {
+        "name": "JavaScript"
+    },
+   
+    {
+        "name": "Python"
+    },
+    {
+        "name": "C++"
+    },
+    {
+        "name": "MongoDB"
+    },
+    {
+        "name": "MySQL"
+    },
+    {
+        "name": "AWS"
+    },
+    {
+        "name": "Nmap"
+    },
+    {
+        "name": "kali linux"
+    },
+    {
+        "name": "Metasploit"
+    },
+    
+    {
+        "name": "Port Scanning"
+    },
+    
+    {
+        "name": "Git"
+    },
+    
+    {
+        "name": "Natural Language Processing (NLP)"
+    },
+
+    {
+        "name":"Prompt Engineering" 
+    }  
+]
